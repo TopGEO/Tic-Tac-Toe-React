@@ -13,16 +13,16 @@ This project is a Tic Tac Toe game inspired by **Maximilian Schwarzmüller's cou
 
 1. **Clone this repository:**
 
-   git clone <your-repo-link>
+   ```git clone your-repo-link
    
    Navigate to the project folder:
-   cd <project-folder>
+   cd project-folder
    
    Install dependencies:
    npm install
    
    Start the application:
-   npm run dev
+   npm run dev```
 
 
 ## Features

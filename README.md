@@ -37,6 +37,7 @@ If all squares are filled without a winning line, the game ends in a draw.
 
 ## Screenshot
 Here’s a quick look at the game’s UI:
+
 ![image](https://github.com/user-attachments/assets/18c6e111-e947-4825-b6cc-fdb009b8380d)
 
 

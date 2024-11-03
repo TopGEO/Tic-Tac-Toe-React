@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/18c6e111-e947-4825-b6cc-fdb009b8380d)# Tic Tac Toe Game
+# Tic Tac Toe Game
 
 This project is a Tic Tac Toe game inspired by **Maximilian Schwarzmüller's course** on Udemy. The course provided the foundation for the core UI and initial game logic, but I've significantly modified and enhanced various parts to add my own touch and functionality.
 
@@ -37,7 +37,7 @@ If all squares are filled without a winning line, the game ends in a draw.
 
 ## Screenshot
 Here’s a quick look at the game’s UI:
-![image](https://github.com/user-attachments/assets/d4b05a18-13eb-45ee-98c5-50e3fc1ffe97)
+![image](https://github.com/user-attachments/assets/18c6e111-e947-4825-b6cc-fdb009b8380d)
 
 
 ## Acknowledgments
